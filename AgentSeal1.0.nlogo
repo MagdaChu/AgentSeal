@@ -3111,7 +3111,7 @@ n_of_seals
 n_of_seals
 1
 350
-3.0
+97.0
 1
 1
 NIL
@@ -3287,7 +3287,7 @@ SWITCH
 83
 output?
 output?
-0
+1
 1
 -1000
 
