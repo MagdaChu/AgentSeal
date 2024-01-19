@@ -5,13 +5,15 @@
 1. The Model is coded in NetLogo 6.4.0 available to download for free [here](https://ccl.northweatern.edu/netlogo/). You can download for Windows, Mac, or Linus OS. See the [NetLogo User Manual](https://ccl.northwestern.edu/netlogo/docs/) for more information about the software.
 
 
-2. Clone the [AgentSeal_with_GreySeals]() GitHub repository onto your local system.
+2. Clone the [AgentSeal_with_GreySeals](https://github.com/KaraWatts/AgentSeal_with_GreySeals/tree/master) GitHub repository onto your local system.
     
     Enter the below code into your computer terminal.
 
     `git clone https://github.com/KaraWatts/AgentSeal_with_GreySeals.git`
 
-3. AgentSeal2.0_with_GreySeals.nlogo is the netlogo file containing GUI and the code so once you download NetLogo, double-clock this file and it should load in NetLogo.
+3. The main folder contains the original AgentSeal developed by @MagdaChu. To run the AgentSeal grey seal model navigate into the AgentSeal_with_GreySeals.
+
+4. *AgentSeal2.0_with_GreySeals.nlogo* is the netlogo file containing GUI and the code so once you download NetLogo, double-clock this file and it should load in NetLogo.
 
 ## Running the model
 
