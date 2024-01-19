@@ -3628,10 +3628,10 @@ output?
 -1000
 
 INPUTBOX
-732
-657
-796
-717
+875
+757
+939
+817
 sigK
 0.52
 1
@@ -3639,10 +3639,10 @@ sigK
 Number
 
 INPUTBOX
-715
-522
-778
-582
+944
+757
+1007
+817
 b
 -0.7
 1
@@ -3683,10 +3683,10 @@ hab_depletion
 -1000
 
 INPUTBOX
-665
-590
-818
-650
+1236
+488
+1389
+548
 end-time
 2018/07/31 00:00
 1
@@ -3694,10 +3694,10 @@ end-time
 String
 
 INPUTBOX
-661
-657
-726
-717
+805
+756
+870
+816
 imp_dist
 0.015
 1
@@ -3750,7 +3750,7 @@ lambda_rate
 lambda_rate
 0
 3
-1.88
+1.87
 0.01
 1
 NIL
@@ -4035,10 +4035,10 @@ PENS
 "default" 1.0 0 -16777216 true "" ""
 
 PLOT
-1225
-332
-1425
-482
+1221
+331
+1421
+481
 hSeals Days with negative energy
 NIL
 NIL
