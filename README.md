@@ -1,4 +1,4 @@
-#AgentSeal
+# AgentSeal
 
 AgentSeal is an agent-based model simulating movement of adult harbour seals (Phoca vitulina) outside their breeding and moutling season. Developed by @MagdaChu.
 
