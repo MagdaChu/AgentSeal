@@ -11,7 +11,7 @@
 
     `git clone https://github.com/KaraWatts/AgentSeal_with_GreySeals.git`
 
-3. The main folder contains the original AgentSeal developed by @MagdaChu. To run the AgentSeal grey seal model navigate into the AgentSeal_with_GreySeals.
+3. The main folder contains the original AgentSeal developed by [@MagdaChu](https://github.com/MagdaChu). To run the AgentSeal grey seal model navigate into the AgentSeal_with_GreySeals.
 
 4. *AgentSeal2.0_with_GreySeals.nlogo* is the netlogo file containing GUI and the code so once you download NetLogo, double-clock this file and it should load in NetLogo.
 
