@@ -23,7 +23,7 @@
 
 3. Click 'setups' to render the map. This will include all haulout sites and grey and harbor seals distributed across haulouts.
 
-4. Click ![go button](/AgentSeal_with_GreySeals/go.png) to progress the model by individual steps OR click ![go repeating](/AgentSeal_with_GreySeals/go_repeating.png) to run continuously until the end of the model duration. (You can end a model run early by clicking ![go repeating](/AgentSeal_with_GreySeals/go_repeating.png) again)
+4. Click ![go button](/AgentSeal-Grey/go.png) to progress the model by individual steps OR click ![go repeating](/AgentSeal-Grey/go_repeating.png) to run continuously until the end of the model duration. (You can end a model run early by clicking ![go repeating](/AgentSeal-Grey/go_repeating.png) again)
 
 ## Folder Breakdown
 
@@ -45,7 +45,7 @@ Input folder contains files necessary in two Procedures: `set_landscape` and `lo
 
 ## Interface
 
-![AgentSeal Interface](/AgentSeal_with_GreySeals/Interface_Breakdown.jpeg)
+![AgentSeal Interface](/AgentSeal-Grey/Interface_Breakdown.jpeg)
 
 
 
